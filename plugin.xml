@@ -4,7 +4,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Share</name>
     <description>Description</description>
-    <js-module name=“Share” src="www/Share.js”>
+    <js-module name="Share" src="www/Share.js”>
         <clobbers target="cordova.plugins.Share"/>
     </js-module>
     <platform name="android">
